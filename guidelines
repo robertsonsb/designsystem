@@ -1,0 +1,64 @@
+Design your service using UK Parliament styles, components and patterns
+Use this design system to make your service consistent with UK Parliament. Learn from the research and experience of other teams and avoid repeating work that’s already been done.
+
+Styles
+Make your service look like UK Parliament with guides for applying layout, typography, colour and images.
+
+Browse styles
+
+Components
+Save time with reusable, accessible components for forms, navigation, panels, tables and more.
+
+Browse components
+
+
+
+Patterns
+Help users complete common tasks like entering names and addresses, filling in forms and creating accounts.
+
+Browse patterns
+
+
+
+
+Status of styles/components/patterns
+
+As these guidelines are a 'work in progress', we have labelled each component/pattern with a level of what the design team consider a probability of change e.g. some components/patterns need more work and will have a high probability of change, those that are considered more complete will have a high level of confidence associated with it, having a low probability of change.
+
+
+Status
+
+Changes are probable. Probability of change =  HIGH
+
+Status
+
+Some changes are probable. Probability of change = MEDIUM
+
+Status
+
+Confident in pattern. Probability of change = LOW
+
+
+
+Looking for code?
+Design System: Pugin
+https://parliament-uk-pugin.herokuapp.com/
+
+https://github.com/ukparliament/parliament.uk-pugin
+
+Design System: Augustus
+Front end application for the UK Parliament website
+
+https://parliament-uk-augustus.herokuapp.com/
+
+https://github.com/ukparliament/augustus
+
+Backlog
+
+Follow our backlog of work across Design Systems on Jira @ https://ukparliament.atlassian.net/secure/RapidBoard.jspa?rapidView=191&projectKey=DSE&selectedIssue=DSE-1&assignee=admin&assignee=UNASSIGNED_USER_ID
+
+Work being done by teams across UK Parliament
+Some components/patterns may arise in these workstreams:
+
+Digital Development Core Team	Jamie/Usman	https://ukparliament.atlassian.net/secure/RapidBoard.jspa?rapidView=78&projectKey=WEBDEV&selectedIssue=WEBDEV-1003
+Business Systems	Matt Stutely	https://youtrack.digiminster.com/agiles/89-1/90-59
